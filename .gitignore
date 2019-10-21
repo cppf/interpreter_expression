@@ -1,3 +1,12 @@
+# Output files
+*.yy.c
+*.tab.h
+*.tab.c
+main
+
+# Editor files
+.vscode/
+
 # Prerequisites
 *.d
 
